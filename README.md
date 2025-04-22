@@ -246,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contact
 
-Project Link: [https://github.com/abuvakar](https://github.com/abuvakar)
+Project Link: [https://github.com/abuvakar](https://github.com/abuvakar/cqm)
 
 ## 🙏 Acknowledgments
 
